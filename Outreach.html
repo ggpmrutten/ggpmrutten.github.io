@@ -17,7 +17,7 @@
 
 			<!-- Header -->
 				<header id="header">
-					<h1 id="logo"><a href="index.html">Ecology from Underground </a></h1>
+					<h1 id="logo"><a href="index.html">Ecology from UnderGRound </a></h1>
 					<nav id="nav">
 						<ul>
 							<li><a href="index.html">Home</a></li>
@@ -29,7 +29,13 @@
 								</ul>
 							</li>
 							<li><a href="Teaching.html">Teaching</a></li>
-						</ul>
+							<li><a href="Outreach.html">Outreach</a>
+							<ul>
+									<li><a href="WurmDrin.html">Der Wurm drin!</a></li>
+									</li>
+								</ul>
+							</li>
+							</ul>
 					</nav>
 				</header>
 
@@ -52,8 +58,9 @@
 						<header>
 							<h2>Serious Game x Biodiversity</h2>
 						</header>
-						<p>
-Should we invest in prestigious mountain lakes or cleaner energy to create a more sustainable world? In this interactive serious game X Biodiversity, players shape systemic change with their decisions and at the same time recognize themselves as part of the system. This simulation game helps to better understand socially relevant and sustainable decision-making and design processes. Together with 2030 SDGs game facilitator Siro Koch<a href="https://www.boga.unibe.ch/agenda/raetselspass/serious_game_x_biodiversity_1109/index_ger.html"> [BOGA]</a>
+						<p> 
+						Should we invest in prestigious mountain lakes or cleaner energy to create a more sustainable world? In this interactive serious game X Biodiversity, players shape systemic change with their decisions and at the same time recognize themselves as part of the system. This simulation game helps to better understand socially relevant and sustainable decision-making and design processes. Together with 2030 SDGs game facilitator Siro Koch
+						<a href="https://www.boga.unibe.ch/agenda/raetselspass/serious_game_x_biodiversity_1109/index_ger.html"> [BOGA]</a>
 						</p>
 					</div>
 					<a href="#three" class="goto-next scrolly">Next</a>
@@ -66,25 +73,44 @@ Should we invest in prestigious mountain lakes or cleaner energy to create a mor
 						<header>
 							<h2>WoodWideWeb</h2>
 						</header>
-						<p>
-The communication networks formed by tree roots and root fungi can cover a forest. Together with electronic musician Gaudenz Badrutt, we took the audience on a trip to this unknown subterranean world. Weaving threads between music and science in a combined lecture, concert, and discussion.<a href="https://www.musikfestivalbern.ch/De/Programm/Produktionen/Info/1514/wissenschaft_iv_woodwideweb">[Musikfestival Bern]</a>
+						<p> 
+						The communication networks formed by tree roots and root fungi can cover a forest. Together with electronic musician Gaudenz Badrutt, we took the audience on a trip to this unknown subterranean world. Weaving threads between music and science in a combined lecture, concert, and discussion.
+						<a href="https://www.musikfestivalbern.ch/De/Programm/Produktionen/Info/1514/wissenschaft_iv_woodwideweb">[Musikfestival Bern]</a>
 						</p>						
+					</div>
+					<a href="#four" class="goto-next scrolly">Next</a>
+				</section>
+      <!-- Four-->
+				<section id="four" class="spotlight style3 left">
+					<span class="image fit main bottom"><img src="images/IMG_Game2.jpg" alt="" /></span>
+					<div class="content">
+						<header>
+							<h2>Reduce food waste - Der Wurm drin!</h2>
+						</header>
+						<p> 
+						Im Botanischen Garten steht eine Kompost-Box mit Sichtfenster. Ziel ist die Rückgewinnung von Nährstoffen aus Lebensmittelabfällen. Das reduziert CO₂-Emissionen und fördert die Biodiversität. Das Sichtfenster und Rhizotronen machen den verborgenen Bodenlebensraum sichtbar. Wurzelwachstum und das Zusammenspiel von Pflanzen und Bodenorganismen lassen sich in Echtzeit beobachten.
+						</p>
+						<ul class="actions special">
+	            <li><a href="WurmDrin.html" class="button">Wurm Drin!</a></li>
+	          </ul>
 					</div>
 					<a href="#footer" class="goto-next scrolly">Next</a>
 				</section>
 
 			<!-- Footer -->
-	<footer id="footer">
-	<ul class="actions special">
-	 <li><a href="index.html" class="button">Home</a></li>
-	</ul>
-	<ul class="copyright">
-	<li> GEms^R  2025 </li>
-		</ul>
+				<footer id="footer">
+					<ul class="actions special">
+			      <li><a href="index.html" class="button">Home</a></li>
+					</ul>
+					<ul class="icons">
+						<li><a href="#" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+						<li><a href="#" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+						<li><a href="#" class="icon solid alt fa-envelope"><span class="label">Email</span></a></li>
+					</ul>
+					<ul class="copyright">
+						<li> GEms <sup>&reg;</sup> 2026  </li><li> Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					</ul>
 				</footer>
-
-		</div>
-
 
 		</div>
 
@@ -97,6 +123,13 @@ The communication networks formed by tree roots and root fungi can cover a fores
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
-
+			<!-- QR code -->
+	    <script src="https://cdn.jsdelivr.net/npm/qrcodejs@1.0.0/qrcode.min.js"></script>
+	    <script>
+		    new QRCode(document.getElementById("qrcode"), {
+			    text: window.location.href,
+			    width: 200,height: 200
+		      });
+	    </script>
 	</body>
 </html>
