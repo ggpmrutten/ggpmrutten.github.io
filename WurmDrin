@@ -1,0 +1,241 @@
+<!DOCTYPE HTML>
+<!--
+	Landed by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>ecoloGy fRom belowGRound</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload landing">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<header id="header">
+					<h1 id="logo"><a href="index.html">Ecology from UnderGRound </a></h1>
+					<nav id="nav">
+						<ul>
+							<li><a href="index.html">Home</a></li>
+							<li>
+								<a href="Research.html">Research</a>
+								<ul>
+									<li><a href="RootTraitStrategies.html">RootTraitStrategies</a></li>
+									</li>
+								</ul>
+							</li>
+							<li><a href="Teaching.html">Teaching</a></li>
+							<li><a href="Outreach.html">Outreach</a>
+							<ul>
+									<li><a href="WurmDrin.html">Der Wurm drin!</a></li>
+									</li>
+								</ul>
+							</li>
+							</ul>
+					</nav>
+				</header>
+
+			<!-- Banner -->
+				<section id="banner">
+					<div class="content">
+						<header>
+							<h2>Reduce Food Waste – Der Wurm drin!</h2>
+							<p>
+							  Dieses Projekt ist ein Beitrag für den Ideen wettbewerb «Ready to Reduce» 2025 der Universität Bern. Das Projekt wurde initiiert und gestaltet von Katrin Ballmann & Gemma Rutten, und gefördert von der Universität Bern. <br />
+							</p>
+						</header>
+						<span class="image"><img src="images/IMG_teach3.jpg" alt="" />						</span>
+					</div>
+					</div>
+					<a href="#one" class="goto-next scrolly">Next</a>
+				</section>
+			
+			<!-- One -->
+				<section id="one" class="spotlight style2 right">
+					<span class="image fit main bottom"><img src="images/IMG_seeds.jpg" alt="" /></span>
+					<div class="content">
+						<header>
+							<h2>Lebensmittelverschwendung</h2>
+						</header>
+						<p> 
+						Food Waste entsteht auf allen Stufen der Lebensmittelkette. In der Schweiz entsteht der meiste allerdings in Haushalten
+            (35%). Aber organische Abfälle müssen nicht verloren gehen: Kompostierung führt
+            wertvolle Nährstoffe zurück in den natürlichen Kreislauf und kann so den
+            Einsatz von umweltbelastenden Kunstdünger reduzieren. Begleitet uns auf einem Rundgang, um
+            zu sehen, wie das funktioniert.
+            In der Schweiz wirft jede Person im Haushalt durchschnittlich rund 80 kg Lebensmittel pro Jahr
+            weg. Rund 3/4 dieser entsorgten Lebensmittel werden im Kehricht verbrannt oder landen im Abwasser.
+            </p>
+						<ul class="actions">
+							<li><a href="https://vimeo.com/246948827" class="button">Das Leben im Kompost</a></li>
+						</ul>
+					</div>
+					<a href="#two" class="goto-next scrolly">Next</a>
+				</section> 
+				
+			<!-- Two -->
+				<section id="two" class="spotlight style3 left">
+					<span class="image fit main bottom"><img src="images/IMG_Exc.jpg" alt="" /></span>
+					<div class="content">
+						<header>
+							<h2>Lebensmittelverschwendung</h2>
+						</header>
+						<p> 
+						Food Waste entsteht auf allen Stufen der Lebensmittelkette. In der Schweiz entsteht der meiste allerdings in Haushalten
+            (35%). Aber organische Abfälle müssen nicht verloren gehen: Kompostierung führt
+            wertvolle Nährstoffe zurück in den natürlichen Kreislauf und kann so den
+            Einsatz von umweltbelastenden Kunstdünger reduzieren. Begleitet uns auf einem Rundgang, um
+            zu sehen, wie das funktioniert.
+            In der Schweiz wirft jede Person im Haushalt durchschnittlich rund 80 kg Lebensmittel pro Jahr
+            weg. Rund 3/4 dieser entsorgten Lebensmittel werden im Kehricht verbrannt oder landen im Abwasser.
+            </p>
+						<ul class="actions">
+							<li><a href="https://vimeo.com/246948827" class="button">Das Leben im Kompost</a></li>
+						</ul>
+					</div>
+					<a href="#three" class="goto-next scrolly">Next</a>
+				</section>
+
+			<!-- Three -->
+				<section id="three" class="spotlight style2 right">
+					<span class="image fit main"><img src="images/IMG_teach2.jpg" alt="" /></span>
+					<div class="content">
+						<header>
+							<h2>Bodennahrungsnetz</h2>
+						</header>
+						<p>
+						  Zur Bodenfauna gehören winzige Lebewesen,die meist verborgen bleiben und wir mit
+              blossem Auge kaum wahrnehmen. Dazu zählen beispielsweise Milben (Acari), Springschwänze (Collembolen) und Fadenwürmer (Nematoden). Sie spielen eine
+              wichtige Rolle bei der Zersetzung organischer Substanz, dem Nährstoffkreislauf und der
+              Bodenstruktur. Sie sind Teil des Bodennahrungsnetzes – aber wer frisst eigentlich wen?
+    				</p>	
+						<ul class="actions">
+							<li><a href="https://vimeo.com/222168889?autoplay=1&muted=1&stream_id=Y2xpcHN8MjQ5MzIxMnxpZDpkZXNjfFtd" class="button">Bioturbation mit und ohne Bodenfauna </a></li>
+						</ul>
+					</div>
+					<a href="#four" class="goto-next scrolly">Next</a>
+				</section>
+
+			<!-- Four -->
+				<section id="four" class="spotlight style3 left">
+					<span class="image fit main bottom"><img src="images/IMG_Myco.jpg" alt="" /></span>
+					<div class="content">
+					<header>
+						<h2>Mikroorganismen</h2>								
+						Bakterien leisten mit rund 80–90 % den grössten Teil der Zersetzung. Sie bauen vor
+            allem leicht abbaubare Stoffe wie Zucker, Proteine und weiches Pflanzenmaterial ab
+            und setzen dabei Stickstoff und Phosphor frei. An widerstandsfähigen Stoffen wie Lignin
+            (in Holz), Cellulose (in Zellwänden der Pflanzen) und Chitin (in Insektenpanzern)
+            scheitern sie – hier übernehmen Pilze, die mit ihren Hyphen ins Material wachsen und es
+            mit Enzymen aufspalten.
+						</header>
+						<p> Knöllchenbakterien
+            Hülsenfrüchtler wie Bohnen und Erbsen leben mit Knöllchenbakterien (Rhizobien)
+            zusammen welche Luftstickstoff binden und so auch stickstoffarme Böden nutzbar machen.	
+            </p>
+            <ul class="actions">
+							<li><a href="https://vimeo.com/852955541" class="button"> Wie bilden sich die Knöllchen? </a></li>
+						</ul>
+            <p> 
+						Mycorrhiza
+            Pilze liefern Nährstoffe und erhalten im Gegenzug Zucker. Sie umhüllen die Wurzeln mit einem Fadengeflecht und schützen sie damit auch vor Krankheitserregern und Trockenheit. Bei Endomykorrhiza dringen die Pilzfäden (Hyphen) in die Wurzelrinde ein; bei Ektomykorrhiza bilden die Wurzelspitzen eine dichte Pilzhülle aus denen die Hyphen wachsen.	
+            </p>
+            <ul class="actions">
+							<li><a href="https://vimeo.com/521867504?autoplay=1&muted=1&stream_id=Y2xpcHN8MjQ5MzIxMnxpZDpkZXNjfFtd" class="button">Wie wachsen Ectomykorrhiza? </a></li>
+						</ul>
+						</div>
+		    <a href="#five" class="goto-next scrolly">Next</a>
+				</section>
+			
+			<!-- Five -->
+				<section id="five" class="spotlight style2 right">
+					<span class="image fit main"><img src="images/IMG_teach2.jpg" alt="" /></span>
+					<div class="content">
+						<header>
+							<h2>Bodennahrungsnetz</h2>
+						</header>
+						<p>
+						  Zur Bodenfauna gehören winzige Lebewesen,die meist verborgen bleiben und wir mit
+              blossem Auge kaum wahrnehmen. Dazu zählen beispielsweise Milben (Acari), Springschwänze (Collembolen) und Fadenwürmer (Nematoden). Sie spielen eine
+              wichtige Rolle bei der Zersetzung organischer Substanz, dem Nährstoffkreislauf und der
+              Bodenstruktur. Sie sind Teil des Bodennahrungsnetzes – aber wer frisst eigentlich wen?
+    				</p>	
+						<ul class="actions">
+							<li><a href="https://vimeo.com/222168889?autoplay=1&muted=1&stream_id=Y2xpcHN8MjQ5MzIxMnxpZDpkZXNjfFtd" class="button">Bioturbation mit und ohne Bodenfauna </a></li>
+						</ul>
+					</div>
+					<a href="#six" class="goto-next scrolly">Next</a>
+				</section>
+
+			<!-- Six -->
+				<section id="six" class="spotlight style3 left">
+					<span class="image fit main bottom"><img src="images/IMG_Myco.jpg" alt="" /></span>
+					<div class="content">
+					<header>
+						<h2>Mikroorganismen</h2>								
+						Bakterien leisten mit rund 80–90 % den grössten Teil der Zersetzung. Sie bauen vor
+            allem leicht abbaubare Stoffe wie Zucker, Proteine und weiches Pflanzenmaterial ab
+            und setzen dabei Stickstoff und Phosphor frei. An widerstandsfähigen Stoffen wie Lignin
+            (in Holz), Cellulose (in Zellwänden der Pflanzen) und Chitin (in Insektenpanzern)
+            scheitern sie – hier übernehmen Pilze, die mit ihren Hyphen ins Material wachsen und es
+            mit Enzymen aufspalten.
+						</header>
+						<p> Knöllchenbakterien
+            Hülsenfrüchtler wie Bohnen und Erbsen leben mit Knöllchenbakterien (Rhizobien)
+            zusammen welche Luftstickstoff binden und so auch stickstoffarme Böden nutzbar machen.	
+            </p>
+            <ul class="actions">
+							<li><a href="https://vimeo.com/852955541" class="button"> Wie bilden sich die Knöllchen? </a></li>
+						</ul>
+            <p> 
+						Mycorrhiza
+            Pilze liefern Nährstoffe und erhalten im Gegenzug Zucker. Sie umhüllen die Wurzeln mit einem Fadengeflecht und schützen sie damit auch vor Krankheitserregern und Trockenheit. Bei Endomykorrhiza dringen die Pilzfäden (Hyphen) in die Wurzelrinde ein; bei Ektomykorrhiza bilden die Wurzelspitzen eine dichte Pilzhülle aus denen die Hyphen wachsen.	
+            </p>
+            <ul class="actions">
+							<li><a href="https://vimeo.com/521867504?autoplay=1&muted=1&stream_id=Y2xpcHN8MjQ5MzIxMnxpZDpkZXNjfFtd" class="button">Wie wachsen Ectomykorrhiza? </a></li>
+						</ul>
+						</div>
+		    <a href="#footer" class="goto-next scrolly">Next</a>
+				</section>
+				
+			<!-- Footer -->
+				<footer id="footer">
+					<ul class="actions special">
+			      <li><a href="index.html" class="button">Home</a></li>
+					</ul>
+					<ul class="icons">
+						<li><a href="#" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+						<li><a href="#" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+						<li><a href="#" class="icon solid alt fa-envelope"><span class="label">Email</span></a></li>
+					</ul>
+					<div id="qrcode" style="display:flex; justify-content:center; margin:2em auto; background:#fff; width:fit-content;"></div>
+					<ul class="copyright">
+						<li> GEms <sup>&reg;</sup> 2026  </li><li> Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					</ul>
+				</footer>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+			<!-- QR code -->
+	    <script src="https://cdn.jsdelivr.net/npm/qrcodejs@1.0.0/qrcode.min.js"></script>
+	    <script>
+		    new QRCode(document.getElementById("qrcode"), {
+			    text: window.location.href,
+			    width: 200,height: 200
+		      });
+	    </script>
+	</body>
+</html>
