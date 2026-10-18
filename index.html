@@ -29,7 +29,13 @@
 								</ul>
 							</li>
 							<li><a href="Teaching.html">Teaching</a></li>
-						</ul>
+							<li><a href="Outreach.html">Outreach</a>
+							<ul>
+									<li><a href="WurmDrin.html">Der Wurm drin!</a></li>
+									</li>
+								</ul>
+							</li>
+							</ul>
 					</nav>
 				</header>
 
@@ -79,7 +85,7 @@
 					<header>
 						<h2>Interactions between roots, fungal mutualists & pathogens.</h2>
 						<p>A considerable part of the biosphere is hidden belowground.</p>
-						</header>
+					</header>
 <ul class="actions">
 	<li><a href="Research.html" class="button">Research</a></li>
 						</ul>
@@ -112,16 +118,12 @@
 
 			<!-- Four -->
 				<section id="four" class="wrapper style1 special fade-up">
+					<div id="qrcode" style="display:flex; justify-content:center; margin:2em auto; background:#fff; width:fit-content;"></div>
 					<div class="container">
 						<header class="major">
 							<h2>Thank you for visiting!</h2>
+						</header>
 						</div>
-						<footer class="major">
-						<ul class="actions special">
-			<li><a href="index.html" class="button">Home</a></li>
-							</ul>
-						</footer>
-					</div>
 				</section>
 
 			<!-- Footer -->
@@ -131,8 +133,9 @@
 						<li><a href="#" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
 						<li><a href="#" class="icon solid alt fa-envelope"><span class="label">Email</span></a></li>
 					</ul>
+					
 					<ul class="copyright">
-						<li> GEms^R 2024  </li><li> Design: <a href="http://html5up.net">HTML5 UP</a></li>
+						<li> GEms <sup>&reg;</sup> 2026  </li><li> Design: <a href="http://html5up.net">HTML5 UP</a></li>
 					</ul>
 				</footer>
 
@@ -147,6 +150,17 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+			<!-- QR code -->
+	    <script src="https://cdn.jsdelivr.net/npm/qrcodejs@1.0.0/qrcode.min.js"></script>
+	    <script>
+		    new QRCode(document.getElementById("qrcode"), {
+			    text: window.location.href,
+			    width: 200,height: 200
+		      });
+	    </script>
+
+	</body>
+</html>
 
 	</body>
 </html>
